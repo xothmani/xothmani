@@ -2,17 +2,13 @@
 
 # Rayen Othmani
 
-Full-stack dev · Hammamet, Tunisia
+Full-stack dev
 
 [rayenothmani.me](https://rayenothmani.me) · [LinkedIn](https://www.linkedin.com/in/rayen-othmani/) · [Email](mailto:rayenothmani@gmail.com)
 
 ---
 
-**Now:** Full-Stack Developer @ Smarte Conseil
-
----
-
-![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![React](https://skillicons.dev/icons?i=react) ![Nextjs](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Azure](https://skillicons.dev/icons?i=azure)
+![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![CSharp](https://skillicons.dev/icons?i=cs) ![Dotnet](https://skillicons.dev/icons?i=dotnet) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![React](https://skillicons.dev/icons?i=react) ![Nextjs](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Azure](https://skillicons.dev/icons?i=azure)
 
 </div>
 
